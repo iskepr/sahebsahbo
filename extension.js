@@ -114,7 +114,6 @@ function activate(context) {
   const editor = vscode.window.activeTextEditor;
 
   const document = editor.document;
-  const text = document.getText();
 
   vscode.workspace.onDidChangeTextDocument((event) => {
     const editor = vscode.window.activeTextEditor;

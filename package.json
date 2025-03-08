@@ -3,7 +3,7 @@
   "displayName": "صاحب صحبُه",
   "publisher": "skepr",
   "description": "صحبك الي جمبك دايماً",
-  "icon": "./icon.png",
+  "icon": "icon.png",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.96.0"
